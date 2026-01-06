@@ -133,8 +133,8 @@ Licensed under the MIT License — use and modify freely.
 
 ## Maintainers
 
-* **[Eraly Gainulla](https://eraly-ml.github.io/)** — SmartBilim School, Aktobe, Kazakhstan
-* **[Khassanov Arkat](https://github.com/Arka04bro)** — 9th Gymnasium, Aktobe, Kazakhstan
+* **[Eraly Gainulla](https://eraly-ml.github.io/)** — aqbobek lyceum , Aktobe, Kazakhstan
+* **[Khassanov Arkat](https://github.com/Arka04bro)** — BINOM, Astana, Kazakhstan
 
 ---
 
