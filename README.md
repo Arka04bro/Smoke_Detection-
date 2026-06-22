@@ -136,6 +136,3 @@ Licensed under the MIT License — use and modify freely.
 * **[Eraly Gainulla](https://eraly-ml.github.io/)** — aqbobek lyceum , Aktobe, Kazakhstan
 * **[Khassanov Arkat](https://github.com/Arka04bro)** — BINOM, Astana, Kazakhstan
 
----
-
-If you want, I can help add testing instructions, CI/CD setup, or other sections.
